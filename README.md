@@ -1,0 +1,1 @@
+# wego_mini_scout
