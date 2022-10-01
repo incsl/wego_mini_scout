@@ -8,7 +8,7 @@ Robot's Info:
   3. GPS:
   4. Radar:
   5. Camera: IntelRealsense D345i.
-  6. OS: Ubuntu 20.04
+  6. OS: Ubuntu 20.04 (ROS 1).
 
 ## Usage
 There are mainly 2 operation scenarios:
